@@ -13,7 +13,6 @@
 ## without any warranty.
 
 
-
 # Package identifier, generated with `uuidgen -t`.
 # `uuidgen -t` generates a time-based UUID based
 # on the system clock and the system's ethernet
@@ -22,7 +21,6 @@
 # no collisions.
 UUID=01f31e26-8150-11e4-b2d7-001fc6eb6c2e
 export UUID
-
 
 # This function is used to print information
 # about the package. The package maintainer
@@ -167,6 +165,7 @@ uninstall_package() {
 postuninstall_package() {
     true
 }
+
 
 
 ### Standard .inetpkg.sh code that packages share ###
