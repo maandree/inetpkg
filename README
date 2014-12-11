@@ -1,0 +1,48 @@
+What inetpkg is *not*:
+
+  * A package manager
+
+  * A replace for package management
+
+  * Something I propose we use
+
+
+What inetpkg *is*:
+
+  * A specification for distro-agnostic packages
+
+  * An augmentation to existing package managers
+
+  * Usable without a package manager
+
+  * A draft proposal to how we should solve the
+    problem of "distributing end-user applications"
+    under the assumption that there is work to
+    be done in this area
+
+  * Dependant only on software everyone already
+    have installed
+
+
+Goals:
+
+  * Distro-agnostic and universal
+
+  * Functional on even the most minimal
+    GNU/Linux distributions
+
+  * Supplement to rather than complement to
+    or replacement of existing package managers
+
+  * Stupid-simple
+
+  * Functional without support from the
+    distribution, but better, through tie-in,
+    if supported
+
+  * User-private package installation, only
+
+  * Usable by even the most foolish user
+    (Is that not why we need this in the
+    first place?)
+
