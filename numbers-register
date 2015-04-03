@@ -1,0 +1,51 @@
+3f33e598-da35-11e4-8497-001fc6eb6c2e https://www.gnu.org/software/autoconf
+3f341086-da35-11e4-bef6-001fc6eb6c2e https://www.gnu.org/software/automake
+3f343c32-da35-11e4-a8a4-001fc6eb6c2e https://www.gnu.org/software/bash
+3f3465ae-da35-11e4-9d90-001fc6eb6c2e https://www.gnu.org/software/binutils
+3f349074-da35-11e4-bf90-001fc6eb6c2e https://www.gnu.org/software/bison
+3f34ba22-da35-11e4-a183-001fc6eb6c2e https://www.gnu.org/software/coreutils
+3f34e376-da35-11e4-8b53-001fc6eb6c2e https://www.gnu.org/software/diffutils
+3f350e32-da35-11e4-9aae-001fc6eb6c2e https://www.gnu.org/software/findutils
+3f35540a-da35-11e4-b5e9-001fc6eb6c2e https://www.gnu.org/software/gawk
+3f3587ae-da35-11e4-9bbf-001fc6eb6c2e https://www.gnu.org/software/gettext
+3f35b486-da35-11e4-a8e2-001fc6eb6c2e https://www.gnu.org/software/libc
+3f35db46-da35-11e4-acbc-001fc6eb6c2e https://www.gnu.org/software/grep
+3f36010c-da35-11e4-b8a3-001fc6eb6c2e https://www.gnu.org/software/gzip
+3f362664-da35-11e4-baa5-001fc6eb6c2e https://www.gnu.org/software/inetutils
+3f364b3a-da35-11e4-a3d5-001fc6eb6c2e https://www.gnu.org/software/libtool
+3f36702e-da35-11e4-8f53-001fc6eb6c2e https://www.gnu.org/software/m4
+3f3695fe-da35-11e4-974f-001fc6eb6c2e https://www.gnu.org/software/make
+3f36bb38-da35-11e4-b543-001fc6eb6c2e https://www.gnu.org/software/patch
+3f36e068-da35-11e4-add1-001fc6eb6c2e https://www.gnu.org/software/sed
+3f3704bc-da35-11e4-bbdc-001fc6eb6c2e https://www.gnu.org/software/tar
+3f373716-da35-11e4-b5ae-001fc6eb6c2e https://www.gnu.org/software/texinfo
+3f376268-da35-11e4-8896-001fc6eb6c2e http://sources.redhat.com/bzip2
+3f378752-da35-11e4-89f0-001fc6eb6c2e http://tukaani.org/xz
+3f37ad4a-da35-11e4-a1f4-001fc6eb6c2e https://packages.debian.org/fakeroot
+3f37d266-da35-11e4-af6f-001fc6eb6c2e http://www.darwinsys.com/file
+3f37f8ea-da35-11e4-beeb-001fc6eb6c2e http://flex.sourceforge.net
+3f382720-da35-11e4-8c40-001fc6eb6c2e https://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2
+3f3873a6-da35-11e4-8804-001fc6eb6c2e http://www.skbuff.net/iputils
+3f38a6aa-da35-11e4-9c14-001fc6eb6c2e http://www.greenwoodsoftware.com/less
+3f38d526-da35-11e4-a736-001fc6eb6c2e http://mj.ucw.cz/sw/pciutils
+3f38ff88-da35-11e4-bbb3-001fc6eb6c2e http://kernel.org/pub/linux/utils/kernel/pcmcia/pcmcia.html
+3f392a62-da35-11e4-b12a-001fc6eb6c2e http://pkgconfig.freedesktop.org/wiki
+3f3955aa-da35-11e4-986b-001fc6eb6c2e https://sourceforge.net/projects/procps-ng
+3f39853e-da35-11e4-983e-001fc6eb6c2e http://psmisc.sourceforge.net
+3f39b52c-da35-11e4-9429-001fc6eb6c2e https://pkg-shadow.alioth.debian.org
+3f39dfd4-da35-11e4-95b1-001fc6eb6c2e https://www.sudo.ws/sudo
+3f3a0ce8-da35-11e4-84df-001fc6eb6c2e http://linux-diag.sourceforge.net/Sysfsutils.html
+3f3a4316-da35-11e4-ad3f-001fc6eb6c2e http://linux-usb.sourceforge.net
+3f3a6fe4-da35-11e4-b9a4-001fc6eb6c2e https://www.kernel.org/pub/linux/utils/util-linux
+3f3a99e2-da35-11e4-8f9b-001fc6eb6c2e https://savannah.gnu.org/projects/which
+3f3ac75a-da35-11e4-9aa5-001fc6eb6c2e https://www.perl.org
+3f3af2d4-da35-11e4-a674-001fc6eb6c2e https://www.python.org (version 3.0.x)
+3f3b1dea-da35-11e4-accf-001fc6eb6c2e https://www.python.org (version 3.1.x)
+3f3b4be4-da35-11e4-8ebc-001fc6eb6c2e https://www.python.org (version 3.2.x)
+3f3b73b2-da35-11e4-9e52-001fc6eb6c2e https://www.python.org (version 3.3.x)
+3f3b9f72-da35-11e4-8431-001fc6eb6c2e https://www.python.org (version 3.4.x)
+3f3bd406-da35-11e4-bfa3-001fc6eb6c2e https://www.kernel.org (version 3.18+, no headers)
+3f3c0174-da35-11e4-902f-001fc6eb6c2e https://www.kernel.org (version 3.18+, only headers)
+3f3c2adc-da35-11e4-8b17-001fc6eb6c2e https://www.kernel.org (version 3.18+, only headers sanitised for userspace)
+3f3c5796-da35-11e4-98c4-001fc6eb6c2e http://dri.freedesktop.org/
+aa1c92e6-da36-11e4-abb9-001fc6eb6c2e http://valgrind.org
