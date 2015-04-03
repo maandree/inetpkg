@@ -174,7 +174,7 @@ postuninstall_package() {
 ## copyright protection. It is licensed under GNU
 ## All-Permissive License:
 ## 
-## Copyright (C) 2014  Mattias Andrée <maandree@member.fsf.org>
+## Copyright (C) 2014, 2015  Mattias Andrée <maandree@member.fsf.org>
 ## 
 ## Copying and distribution of this file, with or without modification,
 ## are permitted in any medium without royalty provided the copyright
@@ -430,7 +430,7 @@ EOF
 	    fi
 	    while read -r dependency; do
 		dep="$(echo "${dependency}" | cut -d ' ' -f 1)"
-		if [ ! -f "${ROOT}/var/lib/inetpkg/installed/${dep}" ]; fi
+		if [ ! -f "${ROOT}/var/lib/inetpkg/installed/${dep}" ]; then
 		   r=1
 		   echo "Missing dependency: ${dependency}" >&2
 		fi
