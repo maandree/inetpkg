@@ -70,7 +70,7 @@ EOF
 # If a package is required during building it
 # must be listed here even if it is required
 # in any of the other stages.
-list_built_dependencies() {
+list_build_dependencies() {
     cat <<EOF
 EOF
 }
@@ -165,6 +165,11 @@ uninstall_package() {
 postuninstall_package() {
     true
 }
+
+# Note that `list_fetch_dependencies` and `fetch_package`
+# is called both att installation and uninstallation.
+# You can check $INSTALL and $UNINSTALL to find out
+# what is happending and adapt the fetch for that.
 
 
 
@@ -397,7 +402,10 @@ EOF
 	    exit 2
 	fi
 	# Commence cleaning.
-	list_user_files | xargs rm -r --
+	list_user_files | xargs rm -r -- || true
+	if [ ${UNINSTALL} = 0 ]; then
+	    exit 0
+	fi
     fi
     
     
