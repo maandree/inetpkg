@@ -432,7 +432,7 @@ EOF
 	    # not already installed. Because of this, this implementation
 	    # also ignores all other flags.
 	    r=0
-	    if [ ! "${1}" = "--check-dependencies"  ]; then
+	    if [ ! "${1}" = "--check-dependencies" ]; then
 		cat >/dev/null
 		return
 	    fi
