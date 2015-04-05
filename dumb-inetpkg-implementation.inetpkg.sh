@@ -496,7 +496,7 @@ EOF
 	# Remove files created during fetching.
 	remove_working_directory || true
 	
-	# Profit
+	# Profit!
 	echo "Done!" >&2
 	exit 0
     fi
