@@ -41,7 +41,7 @@ Optional dependencies:
   (none)
 
 Package identifier: ${UUID}
-Package maintainer: Mattias Andrée <maandree@member.fsf.org>
+Package maintainer: Mattias Andrée <m@maandree.se>
 Upstream site: http://github.com/maandree/inetpkg
 Package version status: draft
 EOF
@@ -179,7 +179,7 @@ postuninstall_package() {
 ## copyright protection. It is licensed under GNU
 ## All-Permissive License:
 ## 
-## Copyright (C) 2014, 2015  Mattias Andrée <maandree@member.fsf.org>
+## Copyright (C) 2014, 2015  Mattias Andrée <m@maandree.se>
 ## 
 ## Copying and distribution of this file, with or without modification,
 ## are permitted in any medium without royalty provided the copyright
